@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋, I'm Adrian Fernández</h1>
 
-<img src="http://views.whatilearened.today/views/github/david96182/views.svg"/>[![GitHub david96182](https://img.shields.io/github/followers/adrian9906?label=follow&style=social)](https://github.com/david96182)
+<img src="http://views.whatilearened.today/views/github/adrian9906/views.svg"/>[![GitHub adrian9906](https://img.shields.io/github/followers/adrian9906?label=follow&style=social)](https://github.com/adrian9906)
 
 ---
 
