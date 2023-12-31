@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AdrianFern%C3%A1ndez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-d-fernandez-12096b297/)](https://www.linkedin.com/in/adrian-d-fernandez-12096b297/) [![Website Badge](https://img.shields.io/badge/-portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://david96182.github.io/)](https://david96182.github.io/)  [![Gmail Badge](https://img.shields.io/badge/-adriandfl99@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriandfl99@gmail.com)](mailto:adriandfl99@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AdrianFern%C3%A1ndez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-d-fernandez-12096b297/)](https://www.linkedin.com/in/adrian-d-fernandez-12096b297/) [![Website Badge](https://img.shields.io/badge/-portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://software-porfolio-web.vercel.app/)](https://software-porfolio-web.vercel.app/)  [![Gmail Badge](https://img.shields.io/badge/-adriandfl99@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriandfl99@gmail.com)](mailto:adriandfl99@gmail.com)
 
 ---
 
